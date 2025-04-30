@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">K22411C_일차방정식</string>
+    <string name="title_app">일차방정식</string>
+    <string name="title_coefficient_a">계수 a</string>
+    <string name="title_coefficient_b">계수 b</string>
+    <string name="title_solution">해</string>
+    <string name="title_next">다음</string>
+    <string name="title_exit">종료</string>
+    <string name="title_result">결과</string>
+    <string name="title_infinity">무한</string>
+    <string name="title_no_solution">해 없음</string>
+    <string name="strChooseLanguage">언어 선택</string>
+    <string-array name="arrLanguage">
+        <item>영어</item>
+        <item>베트남어</item>
+        <item>한국어</item>
+        <item>프랑스어</item>
+    </string-array>
+</resources>
