@@ -96,9 +96,43 @@
         android:text="@string/strChooseLanguage"
         android:textSize="25sp"/>
 
-    <Spinner
-        android:id="@+id/spinnerLanguage"
+    <LinearLayout
+        android:id="@+id/languageButtonLayout"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:spinnerMode="dropdown" />
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@+id/txtChooseLanguage"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/btnEnglish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btnEnglish" />
+
+        <Button
+            android:id="@+id/btnVietnamese"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btnVietnamese" />
+
+        <Button
+            android:id="@+id/btnKorean"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btnKorean" />
+
+        <Button
+            android:id="@+id/btnFrench"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btnFrench" />
+    </LinearLayout>
 </LinearLayout>

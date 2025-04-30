@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Phương trình bậc 1 </string>
+    <string name="app_name">Phương trình bậc 1</string>
     <string name="title_app">Phương trình bậc 1</string>
     <string name="title_coefficient_a">Hệ số a</string>
     <string name="title_coefficient_b">Hệ số b</string>
@@ -11,10 +11,8 @@
     <string name="title_infinity">Vô số nghiệm</string>
     <string name="title_no_solution">Vô nghiệm</string>
     <string name="strChooseLanguage">Chọn ngôn ngữ</string>
-    <string-array name="arrLanguage">
-        <item>Tiếng Anh</item>
-        <item>Tiếng Việt</item>
-        <item>Tiếng Hàn</item>
-        <item>Tiếng Pháp</item>
-    </string-array>
+    <string name="btnEnglish">Tiếng Anh</string>
+    <string name="btnVietnamese">Tiếng Việt</string>
+    <string name="btnKorean">Tiếng Hàn</string>
+    <string name="btnFrench">Tiếng Pháp</string>
 </resources>

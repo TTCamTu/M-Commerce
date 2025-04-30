@@ -11,10 +11,8 @@
     <string name="title_infinity">무한</string>
     <string name="title_no_solution">해 없음</string>
     <string name="strChooseLanguage">언어 선택</string>
-    <string-array name="arrLanguage">
-        <item>영어</item>
-        <item>베트남어</item>
-        <item>한국어</item>
-        <item>프랑스어</item>
-    </string-array>
+    <string name="btnEnglish">영어</string>
+    <string name="btnVietnamese">베트남어</string>
+    <string name="btnKorean">한국어</string>
+    <string name="btnFrench">프랑스어</string>
 </resources>

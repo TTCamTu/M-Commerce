@@ -10,10 +10,8 @@
     <string name="title_infinity">Infinity</string>
     <string name="title_no_solution">No Solution</string>
     <string name="strChooseLanguage">Choose Language</string>
-    <string-array name="arrLanguage">
-        <item>English</item>
-        <item>Vietnamese</item>
-        <item>Korea</item>
-        <item>French</item>
-    </string-array>
+    <string name="btnEnglish">English</string>
+    <string name="btnVietnamese">Vietnamese</string>
+    <string name="btnKorean">Korean</string>
+    <string name="btnFrench">French</string>
 </resources>

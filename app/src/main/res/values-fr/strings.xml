@@ -11,10 +11,8 @@
     <string name="title_infinity">Infini</string>
     <string name="title_no_solution">Aucune solution</string>
     <string name="strChooseLanguage">Choisir la langue</string>
-    <string-array name="arrLanguage">
-        <item>Anglais</item>
-        <item>Vietnamien</item>
-        <item>Coréen</item>
-        <item>Français</item>
-    </string-array>
+    <string name="btnEnglish">Anglais</string>
+    <string name="btnVietnamese">Vietnamien</string>
+    <string name="btnKorean">Coréen</string>
+    <string name="btnFrench">Français</string>
 </resources>
